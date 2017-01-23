@@ -12,4 +12,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situation when branched would be helpful in keeping your history organized? How would some branches help?
 -- Branches are great for working on the same project (the tree) but making changes or moving the project in a new direction. an example could be testing a new feature or layout that you don't want as part of the main code base.
 
+How do the diagrams help you visualize the branch structure?
+-- the diagrams show the branch structure, explaining how the same tree (trunk/master) can have branches that reach for different goals
+
 
