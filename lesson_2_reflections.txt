@@ -1,9 +1,12 @@
-Lesson 2 Reflections
+<Lesson 2 Reflections>
 
 What happens when you intialize a repository? Why do you need to do it?
 -- Initializing a repository sets up necessary git files and such to begin tracking your data. You do this to set up the file system to appropriately track everything.
 
 What is the staging area different from the working directory and the repository? What value do you think it offers?
 -- The staging area is a chance to look over your work, make sure you have everything you want to commit, before you commit any significant changes. The staging area isnt commiting, you dont have to *COMMIT*
+
+How can you use the staging area to make sure you have one commit per logical change?
+-- you can check the staging area to see what will be in the next commit. So if the staging area is all set (everything in you want to commit)
 
 
