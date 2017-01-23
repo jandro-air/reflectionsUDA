@@ -1,0 +1,32 @@
+UDACITY GIT TUTORIAL
+
+How did viewing a diff b.w two versions of a file help you see the bug that was introduced?
+-- it's useful to use a tool that can bring up any changes between files and essentially highlight/call out the changes. It makes it very easy to find differences in files and code.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+-- anytime you make changes, update code, you can view any of these changes, restore back to older points (when the code wasn't broken) etc etc. Pretty useful stuff when you work on large files collaboratively
+
+What do you think are the pros and cons of maually chossing when to create a commit, liek you do in Git, vs having versions automatically saved, like Google Docs does?
+--pros: make saves when it makes sense to make saves!
+		process focused - commit history focuses on changes over time, so you can see how the file developed
+		can always save "working code" so even if you have to restore to a previous point, you know the previous version will always work (assuming same enviornment variables)
+
+--cons: user error is more prominent
+		communication in collaborative work is important (not really a con but something to pay attention to)
+		
+
+Why do you think some version control systems, like Git, allow saving muiltiple files in one commit, while others, like Google Docs, treat each file separately?
+-- depends on the context. In Git, generally used for some kind of code based project, files are inter related, and some kind of version control should be used to keep track of all of them at the same time (to be sure that they stay properly interrelated
+-- in google docs (generally for day to day users, non coders), people will make changes one at a time to one file at a time. There is really no need for tracking multiple files at once for the average user, even though this could be a usefull feature for large complex spreadsheets, pdfs, etc. Documentation. But still, no average user of this service needs to track multiple files at once.
+
+How can you use the commands git log and git diff to view the history of files?
+-- git log allows the user to see a log of all previous "commits" (saves), with a comment explaining the commit and an id so you can reference the commit
+-- git diff allows the user to see explicit differences between commits
+
+How might using version control make you more confident to make changes that could break something?
+-- I won't be worried about experimenting, trying new things, since all my changes (and working project) will be saved and always accessible (this isn't a rubix cube...). In addition, i'm almost encouraged to try things since i can access any different point on my commit timeline, fork it, and start from there just to see how it would work differently if i had taken a different approach
+
+Now that you have your workspace set up, what do you want to try using Git for?
+-- work stuff, improvements on my training files, long documentation, etc!
+
+
