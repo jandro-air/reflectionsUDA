@@ -9,4 +9,7 @@ What is the staging area different from the working directory and the repository
 How can you use the staging area to make sure you have one commit per logical change?
 -- you can check the staging area to see what will be in the next commit. So if the staging area is all set (everything in you want to commit)
 
+What are some situation when branched would be helpful in keeping your history organized? How would some branches help?
+-- Branches are great for working on the same project (the tree) but making changes or moving the project in a new direction. an example could be testing a new feature or layout that you don't want as part of the main code base.
+
 
