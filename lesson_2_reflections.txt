@@ -15,4 +15,8 @@ What are some situation when branched would be helpful in keeping your history o
 How do the diagrams help you visualize the branch structure?
 -- the diagrams show the branch structure, explaining how the same tree (trunk/master) can have branches that reach for different goals
 
+What is the result of mergin two branches together? Why do we represent it in the diagram the way we do?
+-- Merging two branches together adds and removes the changes from both commits, creating a final file that is the result of the changes from both brancehes. We represent it in the diagram as such to show how the branches
+connected, and where the master branch currently falls. The path is clearly seen to pass from both the coins branch and the master branch.
+
 
