@@ -3,3 +3,9 @@ Lesson 3 Reflekshuns
 When would you want to use a remote repository rather than keeping all your work local?
 -- using a temporary machine, a machine with low disk space, collaborating with people, etc. 
 Using an online source allows for access anywhere. 
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repo?
+-- The way I see it, its like choosing to update an app on your phone. Yes its good practice to do so, but you can avoid it if you would like to continnue working on a specific part of the EXISTING
+code without overwriting changes, or organize your files (make backups, test things, etc etc) while knowing nothign is going to change. this way you can merge with the changes you made working in your file,
+so you can decide what is important later on.
+
