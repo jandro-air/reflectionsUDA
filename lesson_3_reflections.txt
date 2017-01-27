@@ -1,0 +1,5 @@
+Lesson 3 Reflekshuns
+
+When would you want to use a remote repository rather than keeping all your work local?
+-- using a temporary machine, a machine with low disk space, collaborating with people, etc. 
+Using an online source allows for access anywhere. 
