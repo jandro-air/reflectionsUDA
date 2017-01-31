@@ -9,3 +9,9 @@ Why might you want to always pull changes manually rather than having Git automa
 code without overwriting changes, or organize your files (make backups, test things, etc etc) while knowing nothign is going to change. this way you can merge with the changes you made working in your file,
 so you can decide what is important later on.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of the other?
+-- Forks: github copy of repo to personal repo. Keeps reference back to original user
+-- Clones: copy of github repo to local machine
+-- Branch: git copy of repo that can move in a different direction from the master branch without affecting it
+
+
