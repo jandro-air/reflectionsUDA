@@ -21,4 +21,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 -- Ways to collaborate: Editing a file and then sharing, GoogleDocs (or similar service), Facebook (but similar to editing and then sharing
 -- Google docs is by far the easiest solution of those listed. The other two are certainly doable, but can definitely be done quicker using other methods. Outdated, depending on context
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits deos each approach have?
+-- Making changes in master is immediate, quick. Great for a project you are working on at home with no collaboration.
+-- But branches are great for any time you want to make a change of some kind without affecting the end users/viewers/etc. 
 
